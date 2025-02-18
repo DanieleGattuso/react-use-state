@@ -1,6 +1,6 @@
 
 import Header from "./components/Header"
-import AccordionList from "./components/Languages"
+import AccordionList from "./components/LanguagesArray"
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
     <>
       <Header />
       <AccordionList />
-      {/* <Main /> */}
+
     </>
 
 
